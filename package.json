@@ -1,0 +1,29 @@
+{
+  "name": "sails-tumblr",
+  "version": "0.0.1",
+  "description": "Tumblr adapter for Sails.js",
+  "main": "TumblrAdapter.js",
+  "scripts": {
+    "test": "echo \"Adapter should be tested using Sails.js core.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Roberto14/sails-tumblr.git"
+  },
+  "keywords": [
+    "orm",
+    "tumblr",
+    "waterline",
+    "sails",
+    "sailsjs"
+  ],
+  "author": "Roberto Jesus",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "async": "0.1.22",
+    "underscore": "1.4.3",
+    "underscore.string": "2.3.1",
+    "tumblr": "~0.4.1"
+  }
+}
