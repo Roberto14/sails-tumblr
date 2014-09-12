@@ -12,7 +12,7 @@ This adapter provides access to the Tumblr API via the Sails.js ORM.
 To use, include in your `node_modules` directory.
 
 *PLEASE NOTE: Currently, the adapter is very limited and only retrieve information of blogs and posts.
-Later will be possible to create, edit and delete posts.
+Later will be possible to create, edit and delete posts.*
 
 ## Installation
 
@@ -41,7 +41,7 @@ Create new model in `api/models/` and include:
     adapter: 'tumblr'
 ```
 
-*Note: Collections (models) can be `TumblrPost or TumblrBlog.
+*Note: Collections (models) can be `TumblrPost or TumblrBlog.*
 
 ## Example
 
