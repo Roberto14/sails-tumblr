@@ -1,6 +1,6 @@
 {
   "name": "sails-tumblr",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Tumblr adapter for Sails.js",
   "main": "TumblrAdapter.js",
   "scripts": {
