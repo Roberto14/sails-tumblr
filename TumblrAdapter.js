@@ -1,9 +1,7 @@
 /**
  * Created by Roberto on 07-07-2014.
  */
-/*var async = require('async')
-    , _       = require('underscore')
-    , _str    = require('underscore.string')*/
+
 var tumb   = require('tumblr');
 
 module.exports = (function(){
